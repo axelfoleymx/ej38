@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
-#Lo sacamos de bootstrapcdl profe 
+# #Lo sacamos de bootstrapcdl profe
+
 gem 'bootstrap-sass'
+
+#GEMA PEDIDA POR EL EJERCICIO 38
+gem 'bootswatch-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7'
 # Use sqlite3 as the database for Active Record
